@@ -1,0 +1,4 @@
+cryptography
+opencv-python
+numpy
+tk
